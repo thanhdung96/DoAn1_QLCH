@@ -1,0 +1,59 @@
+﻿@model sqlQuanLiBanHang.Stock
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Stock</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Inventory.InvtName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Inventory.InvtName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Unit.UnitName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Unit.UnitName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StockDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StockDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NoteStock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NoteStock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Quantity)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StockID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

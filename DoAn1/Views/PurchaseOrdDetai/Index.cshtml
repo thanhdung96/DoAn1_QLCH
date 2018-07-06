@@ -1,0 +1,106 @@
+﻿@model IEnumerable<sqlQuanLiBanHang.PurchaseOrdDetail>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Danh sách chi tiết hóa đơn nhập hàng</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Inventory.InvtName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PurchaseOrder.OrderNO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Unit.UnitName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Qty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PurchasePrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QtyProm)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QtyPromAmt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AmtProm)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DiscAmt1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TaxAmt1)
+        </th>
+        @*<th>
+        @Html.DisplayNameFor(model => model.DiscAmt)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.TaxAmt)
+    </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Inventory.InvtName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PurchaseOrder.OrderNO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Unit.UnitName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Qty)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PurchasePrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QtyProm)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QtyPromAmt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AmtProm)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DiscAmt1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TaxAmt1)
+        </td>
+        @*<td>
+        @Html.DisplayFor(modelItem => item.DiscAmt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.TaxAmt)
+    </td>*@
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

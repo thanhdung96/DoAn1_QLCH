@@ -1,0 +1,134 @@
+﻿@model sqlQuanLiBanHang.Customer
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div>
+    <h4>Xóa @Html.DisplayNameFor(model => model.Employee.EmployeeName)?</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.EmployeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.EmployeeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressCust)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressCust)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaxDebt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaxDebt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TimeDebt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TimeDebt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StatusCust)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StatusCust)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fax)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fax)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Overdue)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Overdue)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OverDueAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OverDueAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DueAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DueAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescriptionCust)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescriptionCust)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Xóa" class="btn btn-default" /> |
+            @Html.ActionLink("Quay lại", "Index")
+        </div>
+    }
+</div>

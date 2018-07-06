@@ -1,0 +1,107 @@
+﻿@model sqlQuanLiBanHang.Customer
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Thêm khách hàng</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CustName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CustName)
+                @Html.ValidationMessageFor(model => model.CustName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.AddressCust, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.AddressCust)
+                @Html.ValidationMessageFor(model => model.AddressCust)
+            </div>
+        </div>
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.TimeDebt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TimeDebt)
+                @Html.ValidationMessageFor(model => model.TimeDebt)
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StatusCust, new { @class = "control-label col-md-2"})
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.StatusCust)*@
+                @Html.ValidationMessageFor(model => model.StatusCust)
+
+                @{
+    List<SelectListItem> listItems = new List<SelectListItem>();
+    listItems.Add(new SelectListItem
+    {
+        Text = "Còn hoạt động",
+        Value = "AV"
+    });
+    listItems.Add(new SelectListItem
+    {
+        Text = "Không còn hoạt động",
+        Value = "UA"
+    });
+    listItems.Add(new SelectListItem
+    {
+        Text = "Bị xóa",
+        Value = "DE"
+    });
+                }
+                @Html.DropDownList("StatusCust", listItems, new { @class = "control-label col-md-2", @readlonly = "readonly" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email)
+                @Html.ValidationMessageFor(model => model.Email)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DescriptionCust, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DescriptionCust)
+                @Html.ValidationMessageFor(model => model.DescriptionCust)
+            </div>
+        </div>
+
+      <div class="form-group">
+            @Html.LabelFor(model => model.IDEmployee, "IDEmployee", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("IDEmployee", String.Empty)
+                @Html.ValidationMessageFor(model => model.IDEmployee)
+            </div>
+      </div>
+
+      <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Thêm" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Quay lại", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

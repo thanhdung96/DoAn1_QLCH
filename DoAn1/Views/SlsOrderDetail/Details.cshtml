@@ -1,0 +1,105 @@
+﻿@model sqlQuanLiBanHang.SlsOrderDetail
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div>
+    <h4>Chi tiết hóa đơn - @Model.OrderNo</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Inventory.InvtName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Inventory.InvtName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalesOrder.IDEmployee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalesOrder.IDEmployee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Unit.UnitName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Unit.UnitName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Qty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Qty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalesPrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalesPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Discount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Discount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiscAmt1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiscAmt1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxAmt1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaxAmt1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiscAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiscAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaxAmt)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.OrderNo, invID = Model.InvtID, unitID=Model.UnitID }) |
+    @Html.ActionLink("Quay lại", "Details", "SalesOrder", new { id = Model.OrderNo }, null)
+</p>

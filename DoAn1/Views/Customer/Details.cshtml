@@ -1,0 +1,141 @@
+﻿@model sqlQuanLiBanHang.Customer
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div>
+    <h4>Thông tin khách hàng</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.EmployeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.EmployeeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressCust)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressCust)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaxDebt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaxDebt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TimeDebt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TimeDebt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StatusCust)
+        </dt>
+        @if (Model.StatusCust == "AV") { 
+        <dd>
+            Còn hoạt động
+        </dd>
+        }
+        else if (Model.StatusCust == "UA")
+        {
+        <dd>
+            Không hoạt động
+        </dd>            
+        }
+        else
+        {
+        <dd>
+            Bị xóa
+        </dd>            
+        }
+        <dt>
+            @Html.DisplayNameFor(model => model.Fax)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fax)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Overdue)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Overdue)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OverDueAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OverDueAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DueAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DueAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescriptionCust)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescriptionCust)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.CustID }) |
+    @Html.ActionLink("Quay lại", "Index")
+</p>

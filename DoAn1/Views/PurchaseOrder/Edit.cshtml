@@ -1,0 +1,93 @@
+﻿@model sqlQuanLiBanHang.PurchaseOrder
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Edit</h2>
+
+<div class="con"
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>PurchaseOrder</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.OrderNO)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OrderDate, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.OrderDate, new { @Value = ViewBag.OrderDate, @readonly = "readonly" , @class = "date"})
+                @Html.ValidationMessageFor(model => model.OrderDate)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DiscAmt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DiscAmt)
+                @Html.ValidationMessageFor(model => model.DiscAmt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TaxAmt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TaxAmt)
+                @Html.ValidationMessageFor(model => model.TaxAmt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TotalAmt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TotalAmt)
+                @Html.ValidationMessageFor(model => model.TotalAmt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OrverdueDate, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OrverdueDate)
+                @Html.ValidationMessageFor(model => model.OrverdueDate)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PromAmt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.PromAmt)
+                @Html.ValidationMessageFor(model => model.PromAmt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.ComAmt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.ComAmt)
+                @Html.ValidationMessageFor(model => model.ComAmt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+@Html.Action("IndexPartial", "PurchaseOrdDetai", new { purchaseOrderNo = Model.OrderNO, modeDetail = false })
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

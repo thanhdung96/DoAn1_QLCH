@@ -1,0 +1,90 @@
+﻿@model sqlQuanLiBanHang.Employee
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div>
+    <h4>Thông tin nhân viên</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IDEmployee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IDEmployee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EmployeeName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AddressEmployee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AddressEmployee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaxDebt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaxDebt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaxReceive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaxReceive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StatusEmployee)
+        </dt>
+
+        @if (Model.StatusEmployee == "DHD")
+        {
+            <dd>
+                Còn hoạt động
+            </dd>
+        }
+        else if (Model.StatusEmployee == "NHD")
+        {
+            <dd>
+                Không hoạt động
+            </dd>
+        }
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescriptionEmployee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescriptionEmployee)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa thông tin", "Edit", new { id = Model.IDEmployee }) |
+    @Html.ActionLink("Quay lại", "Index")
+</p>

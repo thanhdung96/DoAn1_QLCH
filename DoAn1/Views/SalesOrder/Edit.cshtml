@@ -1,0 +1,122 @@
+﻿@model sqlQuanLiBanHang.SalesOrder
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Sửa thông tin hóa đơn - @Model.OrderNo</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+        @Html.HiddenFor(model => model.OrderNo)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OrderDate, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OrderDate)
+                @Html.ValidationMessageFor(model => model.OrderDate)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IDEmployee, "IDEmployee", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("IDEmployee", String.Empty)
+                @Html.ValidationMessageFor(model => model.IDEmployee)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CustID, "CustID", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CustID", String.Empty)
+                @Html.ValidationMessageFor(model => model.CustID)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TotalAmt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TotalAmt)
+                @Html.ValidationMessageFor(model => model.TotalAmt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.SlsDescription, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.SlsDescription)
+                @Html.ValidationMessageFor(model => model.SlsDescription)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OverDueDate, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OverDueDate)
+                @Html.ValidationMessageFor(model => model.OverDueDate)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.OrderDisc, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.OrderDisc)
+                @Html.ValidationMessageFor(model => model.OrderDisc)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TaxAmt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TaxAmt)
+                @Html.ValidationMessageFor(model => model.TaxAmt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Payment, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Payment)
+                @Html.ValidationMessageFor(model => model.Payment)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Debt, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Debt)
+                @Html.ValidationMessageFor(model => model.Debt)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.VAT, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.VAT)
+                @Html.ValidationMessageFor(model => model.VAT)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Quay lại", "Index")
+</div>
+
+@Html.Action("IndexPartial", "SlsOrderDetail", new { salesOrderNo = Model.OrderNo, modeDetail = false })
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

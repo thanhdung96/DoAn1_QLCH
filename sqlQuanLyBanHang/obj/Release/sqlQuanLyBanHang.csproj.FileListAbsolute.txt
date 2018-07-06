@@ -1,0 +1,166 @@
+E:\DoAn1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.csprojResolveAssemblyReference.cache
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+C:\Users\dainh\Downloads\Source\DoAn1\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_04.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_09.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_13.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_13.05.2017 - 1\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_14.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_15.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_19.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_24.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_31.05.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_09.06.2017-2\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_10.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_11.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll.config
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\bin\Release\sqlQuanLyBanHang.pdb
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.dll
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.dll
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.xml
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\bin\Release\EntityFramework.SqlServer.xml
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.dll
+E:\DoAn1_12.06.2017\sqlQuanLyBanHang\obj\Release\sqlQuanLyBanHang.pdb

@@ -1,0 +1,129 @@
+﻿@model sqlQuanLiBanHang.PurchaseOrdDetail
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PurchaseOrdDetail</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Inventory.InvtName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Inventory.InvtName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchaseOrder.OrderNO)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PurchaseOrder.OrderNO)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Unit.UnitName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Unit.UnitName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Qty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Qty)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PurchasePrice)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PurchasePrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtyProm)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtyProm)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtyPromAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtyPromAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AmtProm)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AmtProm)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiscAmt1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiscAmt1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxAmt1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaxAmt1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiscAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiscAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaxAmt)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

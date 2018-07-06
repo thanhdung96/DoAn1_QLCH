@@ -1,0 +1,95 @@
+﻿@model IEnumerable<sqlQuanLiBanHang.Vendor>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Danh sách nhà cung cấp</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Inventory.InvtName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.VendorName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AddressVendor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fax)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DueAmt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StatusVendor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DescriptionVendor)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Inventory.InvtID)
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Inventory.InvtName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.VendorName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AddressVendor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fax)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DueAmt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StatusVendor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DescriptionVendor)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Inventory.InvtID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.VendorID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.VendorID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.VendorID })
+        </td>
+    </tr>
+}
+
+</table>

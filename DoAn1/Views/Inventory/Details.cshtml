@@ -1,0 +1,89 @@
+﻿@model sqlQuanLiBanHang.Inventory
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div>
+    <h4>Thông tin sản phẩm - @Model.InvtID : @Model.InvtName</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Unit.UnitName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Unit.UnitName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InvtName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InvtName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClassName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClassName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalesPriceT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalesPriceT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SalesPriceL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalesPriceL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SlsTax)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SlsTax)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtyStock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtyStock)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UnitRate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UnitRate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InvtDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InvtDescription)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Sửa", "Edit", new { id = Model.InvtID }) |
+    @Html.ActionLink("Quay lại", "Index")
+</p>

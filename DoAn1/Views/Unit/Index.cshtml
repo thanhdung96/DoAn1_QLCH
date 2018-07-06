@@ -1,0 +1,40 @@
+﻿@model IEnumerable<sqlQuanLiBanHang.Unit>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Thông tin đơn vị tính</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UnitID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnitName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.UnitID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.UnitID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.UnitID })
+        </td>
+    </tr>
+}
+
+</table>

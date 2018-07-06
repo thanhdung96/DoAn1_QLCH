@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="doan1-2017" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\DoAn1_10\.06\.2017\\DoAn1\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\DoAn1_10\.06\.2017\\DoAn1\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="BH-Web.config Connection String" description="" value="Data Source=DESKTOP-QL9NR5D;Initial Catalog=QuanLiBanHang_DA1_2;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\DoAn1_10\.06\.2017\\DoAn1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BH']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\v11.0;AttachDbFilename=|DataDirectory|\aspnet-DoAn1-20170424024815.mdf;Initial Catalog=aspnet-DoAn1-20170424024815;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\DoAn1_10\.06\.2017\\DoAn1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

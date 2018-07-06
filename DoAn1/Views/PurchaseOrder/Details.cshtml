@@ -1,0 +1,75 @@
+﻿@model sqlQuanLiBanHang.PurchaseOrder
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<div>
+    <h4>Chi tiết Hóa đơn mua - @Model.OrderNO</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiscAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiscAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TaxAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaxAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TotalAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TotalAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrverdueDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrverdueDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PromAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PromAmt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ComAmt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ComAmt)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.OrderNO }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+@Html.Action("IndexPartial", "PurchaseOrdDetai", new { purchaseOrderNo = Model.OrderNO, modeDetail = true})

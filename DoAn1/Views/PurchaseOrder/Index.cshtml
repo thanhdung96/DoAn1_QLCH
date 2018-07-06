@@ -1,0 +1,94 @@
+﻿@*@model IEnumerable<sqlQuanLiBanHang.PurchaseOrder>*@
+@using DoAn1.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<sqlQuanLiBanHang.PurchaseOrder>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Danh sách hóa đơn nhập hàng</h2>
+
+@using (Html.BeginForm("Index", "PurchaseOrder", FormMethod.Post, new { @class = "navbar-form navbar-right", id = "search-form", onsubmit = "return empty(); " }))
+{
+    <div class="form-group">
+        <input type="text" class="form-control" placeholder="Tìm mã hóa đơn" name="searchTerm" value="@ViewBag.searchTerm" id="searhc-box">
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-default hidden-xs"><i class="glyphicon glyphicon-search"></i></button>
+    </div>
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().OrderNO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().OrderDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().DiscAmt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().TaxAmt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().TotalAmt)
+        </th>
+        @*<th>
+        @Html.DisplayNameFor(model => model.OrverdueDate)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.PromAmt)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.ComAmt)
+    </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderNO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DiscAmt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TaxAmt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TotalAmt)
+        </td>
+        @*<td>
+        @Html.DisplayFor(modelItem => item.OrverdueDate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.PromAmt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ComAmt)
+    </td>*@
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.OrderNO }) |
+            @Html.ActionLink("Details", "Details", new { id=item.OrderNO }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.OrderNO })
+        </td>
+    </tr>
+}
+
+</table>
+
+<div style="text-align:right">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>

@@ -1,0 +1,104 @@
+﻿@*@model IEnumerable<sqlQuanLiBanHang.Inventory>*@
+@using DoAn1.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<sqlQuanLiBanHang.Inventory>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Danh sách sản phẩm</h2>
+@using (Html.BeginForm("Index", "Inventory", FormMethod.Post, new { @class = "navbar-form navbar-right", id = "search-form", onsubmit = "return empty(); " }))
+{
+    <div class="form-group">
+        <input type="text" class="form-control" placeholder="Tìm tên sản phẩm" name="searchTerm" value="@ViewBag.searchTerm" id="searhc-box">
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-default hidden-xs"><i class="glyphicon glyphicon-search"></i></button>
+    </div>
+}
+<p>
+    @Html.ActionLink("Thêm sản phẩm", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().InvtID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().InvtName)
+        </th>
+        <th>
+        @Html.DisplayNameFor(model => model.First().Unit.UnitName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ClassName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().SalesPriceT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().SalesPriceL)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().SlsTax)
+        </th>
+        @*<th>
+        @Html.DisplayNameFor(model => model.QtyStock)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.UnitRate)
+    </th>
+    <th>
+        @Html.DisplayNameFor(model => model.InvtDescription)
+    </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.InvtID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InvtName)
+        </td>
+        <td>
+        @Html.DisplayFor(modelItem => item.Unit.UnitName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClassName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SalesPriceT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SalesPriceL)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SlsTax)
+        </td>
+        @*<td>
+                @Html.DisplayFor(modelItem => item.QtyStock)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitRate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InvtDescription)
+            </td> *@
+            <td>
+                @Html.ActionLink("Sửa", "Edit", new { id=item.InvtID }) |
+                @Html.ActionLink("Chi tiết", "Details", new { id=item.InvtID }) @*|
+                @Html.ActionLink("Xóa", "Delete", new { id=item.InvtID })*@
+            </td>
+        </tr>
+    }
+
+    </table>
+
+<div style="text-align:right">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>

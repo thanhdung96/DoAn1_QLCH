@@ -1,0 +1,1116 @@
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\DoAn1.dll.config
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\DoAn1.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\DoAn1.pdb
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Antlr3.Runtime.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\EntityFramework.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\EntityFramework.SqlServer.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Newtonsoft.Json.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Owin.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Helpers.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Mvc.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Optimization.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Razor.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.WebPages.Deployment.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.WebPages.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.WebPages.Razor.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\WebGrease.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Helpers.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Mvc.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Optimization.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.Razor.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.WebPages.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.WebPages.Deployment.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\System.Web.WebPages.Razor.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Newtonsoft.Json.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Antlr3.Runtime.pdb
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\EntityFramework.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\EntityFramework.SqlServer.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\obj\Release\DoAn1.dll
+G:\DoAn1 (SV)\Do an\DoAn1\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1\DoAn1\bin\DoAn1.dll
+E:\DoAn1\DoAn1\bin\DoAn1.pdb
+E:\DoAn1\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1\DoAn1\bin\EntityFramework.dll
+E:\DoAn1\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1\DoAn1\bin\Owin.dll
+E:\DoAn1\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1\DoAn1\bin\WebGrease.dll
+E:\DoAn1\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1\DoAn1\bin\EntityFramework.xml
+E:\DoAn1\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\DoAn1.dll.config
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\DoAn1.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\DoAn1.pdb
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Antlr3.Runtime.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\EntityFramework.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\EntityFramework.SqlServer.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Newtonsoft.Json.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Owin.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\sqlQuanLyBanHang.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Helpers.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Mvc.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Optimization.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Razor.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.WebPages.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.WebPages.Razor.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\WebGrease.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\sqlQuanLyBanHang.pdb
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Helpers.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Mvc.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Optimization.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.Razor.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.WebPages.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\System.Web.WebPages.Razor.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Newtonsoft.Json.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Antlr3.Runtime.pdb
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\EntityFramework.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\EntityFramework.SqlServer.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\obj\Release\DoAn1.dll
+C:\Users\dainh\Downloads\Source\DoAn1\DoAn1\obj\Release\DoAn1.pdb
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\DoAn1.dll.config
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\DoAn1.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\DoAn1.pdb
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Owin.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Helpers.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Mvc.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Optimization.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Razor.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\WebGrease.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Helpers.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Mvc.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Optimization.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.Razor.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\obj\Release\DoAn1.dll
+G:\DoAn1 (SV)\Do an\DoAn1_Backups\DoAn1_04.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_04.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_04.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_04.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_04.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_04.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_04.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_04.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_04.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_09.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_09.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_09.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_09.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_09.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_09.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_09.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_09.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_09.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_13.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_13.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_13.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_13.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_13.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_13.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_13.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_13.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_13.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\DoAn1.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Owin.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\WebGrease.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_13.05.2017 - 1\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_13.05.2017 - 1\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_13.05.2017 - 1\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_14.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_14.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_14.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_14.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_14.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_14.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_14.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_14.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_14.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_15.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_15.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_15.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_15.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_15.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_15.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_15.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_15.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_15.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_19.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_19.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_19.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_19.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_19.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_19.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_19.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_19.05.2017\DoAn1\bin\PagedList.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_19.05.2017\DoAn1\bin\PagedList.xml
+E:\DoAn1_19.05.2017\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_24.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_24.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\PagedList.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_24.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_24.05.2017\DoAn1\bin\PagedList.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_24.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_24.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_24.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_24.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_24.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\DoAn1.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Owin.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\PagedList.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\WebGrease.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\PagedList.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_26.05.2017 (CreatePartial)\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\DoAn1.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Owin.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\PagedList.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\WebGrease.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\PagedList.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_27.05.2017 (CreatePartial)\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_31.05.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_31.05.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_31.05.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\PagedList.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_31.05.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_31.05.2017\DoAn1\bin\PagedList.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_31.05.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_31.05.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_31.05.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_31.05.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_31.05.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_09.06.2017-2\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_09.06.2017-2\DoAn1\bin\DoAn1.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Owin.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\PagedList.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\WebGrease.dll
+E:\DoAn1_09.06.2017-2\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_09.06.2017-2\DoAn1\bin\PagedList.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_09.06.2017-2\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_09.06.2017-2\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_09.06.2017-2\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_09.06.2017-2\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_09.06.2017-2\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_10.06.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_10.06.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_10.06.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\PagedList.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_10.06.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_10.06.2017\DoAn1\bin\PagedList.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_10.06.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_10.06.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_10.06.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_10.06.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_10.06.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_11.06.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_11.06.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_11.06.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\PagedList.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_11.06.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_11.06.2017\DoAn1\bin\PagedList.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_11.06.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_11.06.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_11.06.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_11.06.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_11.06.2017\DoAn1\obj\Release\DoAn1.pdb
+E:\DoAn1_12.06.2017\DoAn1\bin\DoAn1.dll.config
+E:\DoAn1_12.06.2017\DoAn1\bin\DoAn1.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\DoAn1.pdb
+E:\DoAn1_12.06.2017\DoAn1\bin\Antlr3.Runtime.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\EntityFramework.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\EntityFramework.SqlServer.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Google.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Newtonsoft.Json.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\Owin.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\PagedList.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\PagedList.Mvc.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\sqlQuanLyBanHang.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Helpers.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Mvc.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Optimization.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Razor.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.WebPages.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.WebPages.Razor.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\WebGrease.dll
+E:\DoAn1_12.06.2017\DoAn1\bin\sqlQuanLyBanHang.pdb
+E:\DoAn1_12.06.2017\DoAn1\bin\PagedList.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\PagedList.Mvc.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Helpers.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Mvc.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Optimization.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.Razor.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.WebPages.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\System.Web.WebPages.Razor.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Newtonsoft.Json.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Antlr3.Runtime.pdb
+E:\DoAn1_12.06.2017\DoAn1\bin\EntityFramework.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\EntityFramework.SqlServer.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Google.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DoAn1_12.06.2017\DoAn1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DoAn1_12.06.2017\DoAn1\obj\Release\DoAn1.csprojResolveAssemblyReference.cache
+E:\DoAn1_12.06.2017\DoAn1\obj\Release\DoAn1.dll
+E:\DoAn1_12.06.2017\DoAn1\obj\Release\DoAn1.pdb

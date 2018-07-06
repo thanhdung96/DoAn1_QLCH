@@ -1,0 +1,47 @@
+﻿@model DoAn1.Models.Security.Login
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+    @if (TempData["SaiPass"] != null)
+    {
+        <script type="text/javascript" language="vi-vn" >
+
+        alert("Wrong password")
+    </script>
+    }
+<h2>Đăng nhập hệ thống</h2>
+<hr />
+<div class="row">
+    <div class="col-md-8 col-lg-offset-2">
+        <section id="loginForm">
+            @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true)
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Username1, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Username1, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Username1)
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password_, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.Password_, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(m => m.Password_)
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Log in" class="btn btn-default" />
+                    </div>
+                </div>
+            }
+        </section>
+    </div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+</div>
